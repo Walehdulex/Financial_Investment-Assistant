@@ -30,7 +30,7 @@ This would include:
 
 ### System Architecture Diagram
 
-![System Architecture](Picture1.png "System Architecture")
+![System Architecture](Picture1.png)
 
 
 
