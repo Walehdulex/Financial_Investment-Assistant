@@ -28,9 +28,9 @@ This would include:
 
 •	Reliability: it would aim for a 99% uptime, ensure transaction consistency, has a robust backup system, incorporate failover mechanisms, include error handling protocols, and conduct regular security audits.
 
-![alt text](image-1.png)
+### System Architecture Diagram
 
-
+![System Architecture](Picture1.png "System Architecture")
 
 
 
