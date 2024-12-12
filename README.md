@@ -11,6 +11,7 @@ The project’s focus on explainable AI and dynamic risk modelling will ensure t
 User Management
 
 This would include:
+
 •	Profile Management: 
 
         It allows users to interact with it concerning their investment experience, establish an investment horizon and provide informed decision based on the data it is trained with.
@@ -22,7 +23,9 @@ This would include:
 ## Non-Functional Requirements
 
 •	Security: This would involve end-to-end encryption, secure data transmission, and undergoes regular security audits.
+
 •	Performance: It provides real-time data updates, efficient user interface interactions, supports concurrent users, and maintains a response time target of under 2 seconds for most operations
+
 •	Reliability: it would aim for a 99% uptime, ensure transaction consistency, has a robust backup system, incorporate failover mechanisms, include error handling protocols, and conduct regular security audits.
 
 ![alt text](image-1.png)
